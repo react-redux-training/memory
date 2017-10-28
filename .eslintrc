@@ -41,6 +41,12 @@
       {
         "props": false
       }
+    ],
+    "import/no-extraneous-dependencies": [
+      "error",
+      {
+        "dependencies": false
+      }
     ]
   }
 }
